@@ -11,6 +11,10 @@ namespace GitTest
         static void Main(string[] args)
         {
             var i = 69;
+
+            var t = 1;
+
+
         }
     }
 }
